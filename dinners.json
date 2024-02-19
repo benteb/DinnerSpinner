@@ -1,0 +1,346 @@
+{
+    "Green goddness salad": {
+        "ingredients": [
+            {
+                "name": "hodekål",
+                "amount": "1/2",
+                "unit": "stk"
+            },
+            {
+                "name": "agurk",
+                "amount": "1",
+                "unit": "stk"
+            },
+            {
+                "name": "vårløk",
+                "amount": "5",
+                "unit": "stk"
+            },
+            {
+                "name": "gressløk",
+                "amount": "50",
+                "unit": "g"
+            },
+            {
+                "name": "babysalat",
+                "amount": "100",
+                "unit": "g"
+            },
+            {
+                "name": "basilikum",
+                "amount": "1",
+                "unit": "bunt"
+            },
+            {
+                "name": "cashewnøtter",
+                "amount": "70",
+                "unit": "g"
+            },
+            {
+                "name": "parmesan",
+                "amount": "100",
+                "unit": "g"
+            },
+            {
+                "name": "hvitløk",
+                "amount": "2",
+                "unit": "fedd"
+            },
+            {
+                "name": "sjalottløk",
+                "amount": "1",
+                "unit": "stk"
+            },
+            {
+                "name": "extra virgin olivenolje",
+                "amount": "2",
+                "unit": "dl"
+            },
+            {
+                "name": "sitronsaft",
+                "amount": "2",
+                "unit": "stk"
+            },
+            {
+                "name": "hvitvinseddik",
+                "amount": "2",
+                "unit": "ss"
+            }
+        ],
+        "instructions": [
+            "Dressing: ha basilikum (blad og stilker), cashewnøtter, halvparten av spinaten, parmesan (i biter), presset hvitløk, kuttet sjalottløk, 1 dl olivenolje, sitronsaft og hvitvinseddik i food processor og kjør glatt. Tilsett så resten av spinat og olivenolje og kjør glatt. Smak til å evt. tilsett salt, ekstra hvitvinseddik eller sitronsaft.",
+            "Finkutt resten, bland så dressing inn.",
+            "La stå i kjøleskap 30 min før servering (nødvendig?)."
+        ],
+        "serving_tip" : [
+            "Kan spises alene, som tilbehør, eller som dip til nachochips"],
+        "servings" : 4, 
+        "tags": [
+            "salat",
+            "vegetar",
+            "tilbehør"
+        ],
+        "stars": false,
+        "times_made": false
+        },
+    "korean fried chicken" :
+        {"ingredients": [
+            {
+                "name": "rå kyllingvinger",
+                "amount": "1,2",
+                "unit": "kg"
+            },
+            {
+                "name": "kulturmelk",
+                "amount": "5",
+                "unit": "dl"
+            },
+            {
+                "name": "potetmel",
+                "amount": "200",
+                "unit": "g"
+            },
+            {
+                "name": "vårløk",
+                "amount": "2",
+                "unit": "stk"
+            },
+            {
+                "name": "hvite sesamsfrø",
+                "amount": "1",
+                "unit": "ss"
+            },
+            {
+                "name": "rapsolje",
+                "amount": "5-10",
+                "unit": "dl"
+            },
+            {
+                "name": "hvitløk",
+                "amount": "1",
+                "unit": "ss"
+            },
+            {
+                "name": "ingefær",
+                "amount": "1",
+                "unit": "ss"
+            },
+            {
+                "name": "ketchup",
+                "amount": "2",
+                "unit": "dl"
+            },
+            {
+                "name": "sesamolje",
+                "amount": "1",
+                "unit": "ss"
+            },
+            {
+                "name": "gochujang",
+                "amount": "3",
+                "unit": "ss"
+            },
+            {
+                "name": "honning",
+                "amount": "1",
+                "unit": "dl"
+            },
+            {
+                "name": "riseddik",
+                "amount": "1",
+                "unit": "ss"
+            },
+            {
+                "name": "dijon sennep",
+                "amount": "1",
+                "unit": "ss"
+            },
+            {
+                "name": "soyasaus",
+                "amount": "2",
+                "unit": "ss"
+            }
+        ],
+        "instructions": [
+            "Skyld kylling i kaldt vann og tørk  med papir", "Legg kylling i en bolle med kulturmelk og la det ligger over natt eller min. 2 timer i romtemperatur", "Bland potetmel og krydder. Dekk kylling i blanding og legg de så på rist, klar for fritering", "Lag saus: stek finhakket hvitløk og ingefær i litt olje, ha så i ketchup, gochujang, soyasaus, sesamolje, sukker, honning, riseddik og sennep. La det koke på medium varme i 10 min", "Varm opp rapsolje eller annen frityrolje og friter hver vinge ca 3 min. Legg de så tilbake på rist. Kylling friteres så en ny runde, nå 2 min. Legg de tilbake på rist for å renne av olje.", "Før servering blandes kylling i saus, ha over sesamfør og vårlølk. "
+        ],
+        "serving_tip" : ["Kan spises alene (med ris feks) eller som tilbehør."],
+        "servings" : 4, 
+        "tags": [
+                "kylling",
+                "tilbehør"
+            ],
+        "stars": false,
+        "times_made": false
+        },
+    "risotto med sopp" : {
+        "ingredients": [
+            {
+                "name": "hodekål",
+                "amount": "1/2",
+                "unit": "stk"
+            },
+            {
+                "name": "agurk",
+                "amount": "1",
+                "unit": "stk"
+            },
+            {
+                "name": "vårløk",
+                "amount": "5",
+                "unit": "stk"
+            },
+            {
+                "name": "gressløk",
+                "amount": "50",
+                "unit": "g"
+            },
+            {
+                "name": "babysalat",
+                "amount": "100",
+                "unit": "g"
+            },
+            {
+                "name": "basilikum",
+                "amount": "1",
+                "unit": "bunt"
+            },
+            {
+                "name": "cashewnøtter",
+                "amount": "70",
+                "unit": "g"
+            },
+            {
+                "name": "parmesan",
+                "amount": "100",
+                "unit": "g"
+            },
+            {
+                "name": "hvitløk",
+                "amount": "2",
+                "unit": "fedd"
+            },
+            {
+                "name": "sjalottløk",
+                "amount": "1",
+                "unit": "stk"
+            },
+            {
+                "name": "extra virgin olivenolje",
+                "amount": "2",
+                "unit": "dl"
+            },
+            {
+                "name": "sitronsaft",
+                "amount": "2",
+                "unit": "stk"
+            },
+            {
+                "name": "hvitvinseddik",
+                "amount": "2",
+                "unit": "ss"
+            }
+        ],
+        "instructions": [
+            "Dressing: ha basilikum (blad og stilker), cashewnøtter, halvparten av spinaten, parmesan (i biter), presset hvitløk, kuttet sjalottløk, 1 dl olivenolje, sitronsaft og hvitvinseddik i food processor og kjør glatt. Tilsett så resten av spinat og olivenolje og kjør glatt. Smak til å evt. tilsett salt, ekstra hvitvinseddik eller sitronsaft.",
+            "Finkutt resten, bland så dressing inn.",
+            "La stå i kjøleskap 30 min før servering (nødvendig?)."
+        ],
+        "serving_tip" : ["Kan spises alene, som tilbehør, eller som dip til nachochips"],
+        "servings" : 4, 
+        "tags": [
+            "vegetar"
+        ],
+        "stars": false,
+        "times_made": false
+    },
+        "Fiskesuppe" : {
+        "ingredients": [
+            {
+                "name": "rå kyllingvinger",
+                "amount": "1,2",
+                "unit": "kg"
+            },
+            {
+                "name": "kulturmelk",
+                "amount": "5",
+                "unit": "dl"
+            },
+            {
+                "name": "potetmel",
+                "amount": "200",
+                "unit": "g"
+            },
+            {
+                "name": "vårløk",
+                "amount": "2",
+                "unit": "stk"
+            },
+            {
+                "name": "hvite sesamsfrø",
+                "amount": "1",
+                "unit": "ss"
+            },
+            {
+                "name": "rapsolje",
+                "amount": "5-10",
+                "unit": "dl"
+            },
+            {
+                "name": "hvitløk",
+                "amount": "1",
+                "unit": "ss"
+            },
+            {
+                "name": "ingefær",
+                "amount": "1",
+                "unit": "ss"
+            },
+            {
+                "name": "ketchup",
+                "amount": "2",
+                "unit": "dl"
+            },
+            {
+                "name": "sesamolje",
+                "amount": "1",
+                "unit": "ss"
+            },
+            {
+                "name": "gochujang",
+                "amount": "3",
+                "unit": "ss"
+            },
+            {
+                "name": "honning",
+                "amount": "1",
+                "unit": "dl"
+            },
+            {
+                "name": "riseddik",
+                "amount": "1",
+                "unit": "ss"
+            },
+            {
+                "name": "dijon sennep",
+                "amount": "1",
+                "unit": "ss"
+            },
+            {
+                "name": "soyasaus",
+                "amount": "2",
+                "unit": "ss"
+            }
+        ],
+        "instructions": ["Skyld kylling i kaldt vann og tørk  med papir", "Legg kylling i en bolle med kulturmelk og la det ligger over natt eller min. 2 timer i romtemperatur", "Bland potetmel og krydder. Dekk kylling i blanding og legg de så på rist, klar for fritering", "Lag saus: stek finhakket hvitløk og ingefær i litt olje, ha så i ketchup, gochujang, soyasaus, sesamolje, sukker, honning, riseddik og sennep. La det koke på medium varme i 10 min", "Varm opp rapsolje eller annen frityrolje og friter hver vinge ca 3 min. Legg de så tilbake på rist. Kylling friteres så en ny runde, nå 2 min. Legg de tilbake på rist for å renne av olje.", "Før servering blandes kylling i saus, ha over sesamfør og vårlølk. "
+        ],
+        "serving_tip" : ["Kan spises alene (med ris feks) eller som tilbehør."],
+        "servings" : 4, 
+        "tags": [
+            "fisk",
+            "suppe"
+        ],
+        "stars": false,
+        "times_made": false
+        }
+}

@@ -1,0 +1,99 @@
+/* :root {
+    --deep-blue: #003366;
+    --cream-white: #FFF8E1;
+    --sage-green: #9DBF9E;
+    --sunset-orange: #FF7043;
+    --berry-red: #8E2430;
+    --golden-yellow: #FFB300;
+}
+*/
+
+Screen {
+    align: center middle;
+    layers: below above;
+}
+#app-grid {
+    layout: grid;
+    grid-size: 2;  /* two columns */
+    grid-columns: 1fr 2fr;
+    grid-rows: 1fr 1fr 1fr 1fr; /* four rows */
+}
+#dinner_list {
+    row-span: 4;
+    background: $panel;
+    border: dodgerblue;
+    height: 100%;
+    width: 100%;
+}
+#top-left {
+    height: 100%;
+    background: $panel;
+    border: mediumvioletred;
+    row-span: 3;
+    width: 100%;
+}
+Horizontal {
+    height: 3;
+    align: center middle;
+    width: 100%;
+}
+Select {
+    height: 3;
+}
+Label {
+    height: 3;
+    padding-top: 1;
+}
+#bottom-left {
+    height: 100%;
+    layout: grid;
+    grid-size: 1;
+    background: $panel;
+}
+#generate_button {
+    height: 100%;
+    width: 100%;
+}
+#recipe {
+    layer: above;
+    background: pink;
+}
+.dinner_button {
+    height: 3;
+    width: 60%;
+}
+.save_button {
+    height: 3;
+    width: 5%;
+}
+.saved_button {
+    background: green;
+}
+#dinner_layer {
+    layer: above;
+    layout: grid;
+    grid-size: 3;  /* two columns */
+    grid-columns: 1fr 1fr 1fr;
+    grid-rows: 1fr 5fr; /* four rows */
+    background: $panel;
+    border: dodgerblue;
+    height: 80%;
+    width: 80%;
+}
+#instructions {
+    column-span: 2;
+}
+#exit_dinner_container {
+    align: right top;
+}
+#dinner_header {
+    column-span: 2;
+    height: 3;
+    text-style: bold;
+}
+.round_button {
+    /* Additional styling */
+    background: lightgrey;
+    color: black;
+    border: none;  /* Remove the border */
+}
